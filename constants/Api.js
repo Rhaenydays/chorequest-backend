@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://your-backend-url.ngrok-free.app'; // Replace with your actual backend URL
